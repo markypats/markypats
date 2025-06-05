@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reymark Montoya
 
-I'm a **Senior IT Systems Administrator** with over 7 years of experience designing, deploying, and maintaining robust IT infrastructures. I've led IT operations for fast-growing companies, managing hybrid cloud environments, enhancing cybersecurity postures, and implementing automation to scale support for global teams.
+I'm a **Senior IT Systems Administrator** with 7 years of experience designing, deploying, and maintaining robust IT infrastructures. I've led IT operations for fast-growing companies, managing hybrid cloud environments, enhancing cybersecurity postures, and implementing automation to scale support for global teams.
 
 ---
 
