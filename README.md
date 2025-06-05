@@ -17,6 +17,14 @@ I'm a **Senior IT Systems Administrator** with over 7 years of experience design
 - Firewall & Endpoint Security (Cortex, Sophos)
 - Role-based access control, MFA, patching strategies
 
+### 🖥️ Data Center Systems Deployment (Multi-Site)
+- Led the deployment of server infrastructure for new BPO sites, supporting 24/7 operations
+- Built and configured Windows and Linux servers, domain controllers, and virtualization hosts (VMware/vCenter)
+- Implemented centralized storage solutions and backup systems (MSP360, S3, NAS)
+- Coordinated with network engineers for server rack design, power planning, and environmental controls
+- Standardized OS builds, hardening procedures, and patching pipelines across all locations
+- Ensured system uptime and compliance with PCI and HIPAA requirements
+
 ### 🧩 Tools & Platforms
 - **MDM**: Jamf, ManageEngine, WorkspaceOne
 - **RMM**: ConnectWise
@@ -31,8 +39,8 @@ I'm a **Senior IT Systems Administrator** with over 7 years of experience design
 
 ## 🏆 Certifications
 
+- ✅ **AWS Certified Security – Specialty** (2025)
 - ✅ **AWS Certified Solutions Architect – Professional** (2024)
-- ✅ **AWS Certified Security – Specialty** (2024)
 - ✅ **CCNA – Cisco Certified Network Associate** (2021)
 - ✅ **Microsoft MCSE: Core Infrastructure** (2020)
 
